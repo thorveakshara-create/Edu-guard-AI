@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+matplotlib
+joblib
+google-genai
+scikit-learn==1.9.1
