@@ -1,0 +1,31 @@
+Name,Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Motivation_Level,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Peer_Influence,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Distance_from_Home,Gender
+Aarav,23,68,High,Medium,Yes,6,86,Medium,Yes,0,Medium,Medium,Public,Positive,2,No,Postgraduate,Near,Male
+Ananya,22,66,Medium,High,No,4,95,Medium,Yes,1,Low,Low,Public,Neutral,5,No,College,Moderate,Male
+Rohan,21,67,Low,High,Yes,7,55,High,Yes,2,High,High,Private,Positive,3,No,High School,Moderate,Female
+Priya,20,62,Medium,Low,Yes,6,80,High,No,1,Medium,High,Public,Neutral,3,No,College,Moderate,Female
+Kabir,21,62,High,Medium,Yes,5,84,Medium,Yes,5,Low,Medium,Public,Positive,4,No,High School,Near,Female
+Isha,15,60,Medium,Medium,No,7,66,High,Yes,2,High,Medium,Public,Neutral,4,No,High School,Near,Male
+Arjun,3,60,Medium,Low,Yes,6,78,Low,Yes,1,Low,Medium,Public,Positive,1,No,Postgraduate,Near,Female
+Meera,20,61,Low,Low,Yes,8,92,Medium,Yes,0,Medium,Medium,Public,Negative,2,No,High School,Near,Female
+Vihaan,17,83,Medium,High,No,8,51,Low,Yes,0,Low,Medium,Public,Negative,4,No,High School,Moderate,Male
+Diya,19,64,Medium,High,Yes,4,71,Medium,Yes,1,High,Medium,Public,Neutral,3,No,High School,Near,Male
+Aditya,26,65,High,Low,No,7,74,Medium,Yes,2,Low,Medium,Public,Negative,4,No,High School,Near,Female
+Sneha,33,92,High,High,Yes,7,67,Low,Yes,6,High,Medium,Public,Positive,5,No,High School,Near,Female
+Karan,27,87,High,Low,Yes,6,91,Low,Yes,4,High,Medium,Public,Neutral,4,No,High School,Moderate,Male
+Pooja,15,60,Low,High,No,7,91,Low,Yes,0,Low,Medium,Private,Negative,2,No,College,Far,Male
+Rahul,15,64,Medium,Medium,No,6,92,Low,Yes,3,Low,Medium,Public,Negative,4,No,College,Near,Female
+Nisha,16,97,Medium,Low,Yes,8,81,High,Yes,0,High,High,Private,Positive,2,No,High School,Near,Male
+Siddharth,14,98,Medium,Medium,Yes,10,82,High,Yes,1,Low,Medium,Private,Positive,3,No,High School,Moderate,Male
+Kavya,19,67,Medium,Medium,Yes,6,55,Low,Yes,1,Medium,Medium,Public,Neutral,4,No,High School,Near,Male
+Yash,19,77,Low,Medium,No,5,90,Low,Yes,1,Low,High,Private,Neutral,3,No,College,Near,Female
+Tanvi,24,89,Medium,High,Yes,6,63,Medium,Yes,2,High,Medium,Private,Positive,3,No,College,Near,Male
+Dev,26,67,Low,High,Yes,6,81,High,Yes,4,Low,High,Public,Neutral,3,Yes,College,Near,Male
+Riya,15,79,High,Medium,Yes,6,88,Medium,Yes,3,High,Medium,Public,Neutral,3,No,Postgraduate,Moderate,Male
+Aryan,22,96,Low,Low,Yes,5,59,Medium,Yes,0,Medium,High,Private,Positive,2,No,High School,Far,Female
+Neha,7,74,High,Medium,No,10,69,High,Yes,1,High,Medium,Public,Positive,4,No,High School,Near,Male
+Ishaan,22,84,High,Medium,Yes,6,89,Medium,Yes,2,Medium,Medium,Public,Neutral,3,No,High School,Near,Male
+Sara,22,63,Low,High,Yes,4,86,Low,Yes,0,Low,High,Public,Neutral,4,No,College,Near,Female
+Manav,23,93,Medium,Low,No,6,87,Medium,Yes,2,Medium,Medium,Private,Neutral,3,No,High School,Moderate,Male
+Aditi,26,88,High,Medium,Yes,6,79,Medium,Yes,1,Low,High,Public,Neutral,4,No,High School,Far,Male
+Om,21,88,High,High,Yes,7,92,High,Yes,2,Medium,Medium,Public,Positive,3,No,Postgraduate,Near,Female
+Zoya,11,62,Medium,High,Yes,5,82,Medium,Yes,3,High,Medium,Private,Neutral,4,No,College,Moderate,Male
